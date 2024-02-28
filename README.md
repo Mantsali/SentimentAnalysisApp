@@ -30,6 +30,17 @@ The following is a sample of the analysis and insights drawn while working on th
 
 ![Project graph](/graph.png "Project graph")
 
+- StephenSchlegel 507
+- SenSanders 387
+- BernieSanders 194
+- NatGeoChannel 161
+- thehill 138
+- CNN 132
+- SethMacFarlane 126
+- ClimateCentral 109
+- climatehawk1 106
+- nytimes 99
+
 Through our exploration of the Twitter dataset, we found a higher number of retweets over original tweets on the subject matter. With this information, we decided to find out who were the most retweeted accounts and we identified the popular accounts whose views on climate change were shared. Stephen Schlegel and Bernie Sanders were the most retweeted accounts, an indication that they have a strong following and their views on climate change invoke some action from their followers.
 
 ![Project graph](/wordcloud.png "Project graph")
@@ -38,9 +49,7 @@ A word cloud on the most used hashtags associated with climate change.
 
 ## Streamlit Application
 
-
 https://github.com/Mantsali/SentimentAnalysisApp/assets/20598927/c39d5006-8256-4986-b141-b449d7e0d739
-
 
 ## Project Collaborators
 
